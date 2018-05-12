@@ -1,0 +1,35 @@
+_repo: The-Intriguers_32770
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32770-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Le Queux, William
+    aliases:
+    - Queux, William Tufnell Le
+    - Queux, William Le
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '3141'
+    url: http://www.gutenberg.org/2009/agents/3141
+    wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
+description: An extravagant tale of political schemers. The hero, an Italian violinist,
+  finds himself, after a phenomenal rise to success, placed in high society in the
+  Russian court of Alexander III and used in a counter-plot to foil a design against
+  the Czar's life. He succeeds and wins a charming russian princess.
+gutenberg_issued: '2010-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32770'
+  lccn: '21004089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+title: The Intriguers
+url: http://www.gutenberg.org/ebooks/32770
